@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Startup Grievance Hub</string>
+
+    <!-- Welcome Section -->
+    <string name="welcome_title">Welcome to Startup Support</string>
+    <string name="welcome_description">A dedicated platform to address and resolve startup challenges through transparent and efficient grievance management.</string>
+
+    <!-- Card Titles -->
+    <string name="post_grievance">Post Grievance</string>
+    <string name="track_status">Track Status</string>
+    <string name="how_to_complain">How to Complain</string>
+    <string name="faq">FAQ</string>
+
+    <!-- Card Content Descriptions -->
+    <string name="post_grievance_icon">Post a new grievance</string>
+    <string name="track_status_icon">Check grievance status</string>
+    <string name="how_to_complain_icon">Complaint guidelines</string>
+    <string name="faq_icon">Frequently Asked Questions</string>
+
+    <!-- About Section -->
+    <string name="about_app_title">About Startup Grievance Hub</string>
+    <string name="about_app_description">Our platform is dedicated to providing a comprehensive grievance redressal system for startups. We understand the challenges faced by new businesses and aim to create a transparent, efficient, and supportive environment.</string>
+    <string name="mission_statement">Mission: To empower startups by providing a robust platform for addressing grievances, fostering transparency, and supporting their growth journey.</string>
+
+    <!-- Footer -->
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+
+
+    <string-array name="status_array">
+        <item>New</item>
+        <item>In Progress</item>
+        <item>Resolved</item>
+        <item>Rejected</item>
+    </string-array>
+
+</resources>

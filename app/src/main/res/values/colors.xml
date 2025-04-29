@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+<!--    <color name="primary">#6200EE</color>-->
+    <color name="primary">#FFFFFF</color>
+    <color name="primary_dark">#FFFFFF</color>
+<!--    <color name="primary_darkk">#3700B3</color>-->
+    <color name="primary_light">#201685</color>
+    <color name="p1">#2802D1</color>
+
+    <!-- Accent colors -->
+    <color name="accent">#03DAC6</color>
+
+    <!-- Background colors -->
+    <color name="background">#FFFFFF</color>
+
+
+    <!-- Status colors -->
+    <color name="status_new">#FFC107</color>
+    <color name="status_in_progress">#2196F3</color>
+    <color name="status_resolved">#4CAF50</color>
+    <color name="status_rejected">#F44336</color>
+    <color name="status_default">#9E9E9E</color>
+
+    <!-- Additional colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="primary_brand_color">#201685</color>
+    <color name="primary_brand_color_dark">#150E54</color>
+    <color name="primary_brand_color_light">#4A3FB3</color>
+
+    <!-- Card Background Colors -->
+    <color name="post_grievance_color">#4CAF50</color>
+    <color name="track_status_color">#2196F3</color>
+    <color name="how_to_complain_color">#FF9800</color>
+    <color name="faq_color">#9C27B0</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#201685</color>
+    <color name="text_secondary">#333333</color>
+    <color name="text_hint">#757575</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_success">#4CAF50</color>
+    <color name="accent_warning">#FF9800</color>
+    <color name="accent_error">#F44336</color>
+    <color name="accent_info">#2196F3</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="background_dark">#E0E0E0</color>
+
+    <!-- Elevation and Shadow Colors -->
+    <color name="shadow_color">#40000000</color>
+
+
+</resources>
